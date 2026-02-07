@@ -2,7 +2,7 @@ import streamlit as st
 
 # Hello World Streamlit App
 st.title("Hello World!")
-st.write("Welcome to my first Streamlit application!")
+st.write("Welcome to Streamlit application!")
 
 # Add some interactive elements
 name = st.text_input("What's your name?")
